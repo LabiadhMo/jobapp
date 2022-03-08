@@ -1,4 +1,4 @@
-import 'package:job/models/recurring.dart';
+import 'package:job/core/models/recurring.dart';
 
 class Job {
   int id;
